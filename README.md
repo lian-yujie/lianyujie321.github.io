@@ -7,7 +7,7 @@
 This is **bold** *italic* text sample.
 
 This is a [hyperlink](https://github.com).
-
+This is a [同目录](More.md).    不在同级目录可以在文件名前加上相对路径。
 ---
 引文
 >The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. From top companies like Google and Apple to tiny startups vying for your attention, Verge Tech has the latest in what matters in technology daily.
