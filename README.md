@@ -46,4 +46,3 @@ This is a [情书](More.md).  I love you.
 
 
 
-This is a [markdown格式](SimpleMarkdown.md). 
